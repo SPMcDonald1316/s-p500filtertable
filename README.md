@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React.js app displaying S&P 500 returns.
+A range slider to allow for filtering table by years using rc-slider
+Simple styling using react-bootstrap
 
 ## Available Scripts
 
