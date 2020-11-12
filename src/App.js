@@ -1,10 +1,13 @@
-import './App.css';
-import Indices from './components/Indices'
+import './App.css'
+import FilterableReturns from './components/FilterableReturns'
+import Header from './components/Header'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
     <div className="App">
-      <Indices />
+      <Header />
+      <FilterableReturns />
     </div>
   );
 }
